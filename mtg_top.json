@@ -1,0 +1,2875 @@
+{
+  "2024": [
+    {
+      "ref": "mbs043",
+      "name": "Go for the Throat",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 38.5
+    },
+    {
+      "ref": "dmu089",
+      "name": "Cut Down",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 36.1
+    },
+    {
+      "ref": "one254",
+      "name": "Mirrex",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Sphere",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 26.1
+    },
+    {
+      "ref": "neo271",
+      "name": "Otawara, Soaring City",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 24.3
+    },
+    {
+      "ref": "avr226",
+      "name": "Cavern of Souls",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 24.2
+    },
+    {
+      "ref": "lci102",
+      "name": "Deep-Cavern Bat",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Bat",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 24.1
+    },
+    {
+      "ref": "neo268",
+      "name": "Eiganjo, Seat of the Empire",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "White"
+      ],
+      "use_percent": 23.9
+    },
+    {
+      "ref": "som226",
+      "name": "Darkslick Shores",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 23.8
+    },
+    {
+      "ref": "5th407",
+      "name": "Underground River",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 21.3
+    },
+    {
+      "ref": "neo278",
+      "name": "Takenuma, Abandoned Mire",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 20.8
+    },
+    {
+      "ref": "som229",
+      "name": "Seachrome Coast",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 20.2
+    },
+    {
+      "ref": "dmu107",
+      "name": "Sheoldred, the Apocalypse",
+      "card_type": "Creature",
+      "full_card_type": "Legendary Creature \u0097 Phyrexian Praetor",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 20.0
+    },
+    {
+      "ref": "mom352",
+      "name": "Faerie Mastermind",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Faerie Rogue",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 17.9
+    },
+    {
+      "ref": "mom040",
+      "name": "Sunfall",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "White"
+      ],
+      "use_percent": 17.6
+    },
+    {
+      "ref": "lci113",
+      "name": "Preacher of the Schism",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Vampire Cleric",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 16.7
+    },
+    {
+      "ref": "5th003",
+      "name": "Adarkar Wastes",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 16.7
+    },
+    {
+      "ref": "lci014",
+      "name": "Get Lost",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "White"
+      ],
+      "use_percent": 16.5
+    },
+    {
+      "ref": "lci280",
+      "name": "Restless Anchorage",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 16.0
+    },
+    {
+      "ref": "lci088",
+      "name": "Aclazotz, Deepest Betrayal",
+      "card_type": "Creature",
+      "full_card_type": "Legendary Creature \u0097 Bat God",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 15.7
+    },
+    {
+      "ref": "neo276",
+      "name": "Sokenzan, Crucible of Defiance",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 14.8
+    }
+  ],
+  "2023": [
+    {
+      "ref": "mbs043",
+      "name": "Go for the Throat",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 46.1
+    },
+    {
+      "ref": "neo268",
+      "name": "Eiganjo, Seat of the Empire",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "White"
+      ],
+      "use_percent": 41.6
+    },
+    {
+      "ref": "neo278",
+      "name": "Takenuma, Abandoned Mire",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 40.8
+    },
+    {
+      "ref": "neo271",
+      "name": "Otawara, Soaring City",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 37.5
+    },
+    {
+      "ref": "dmu107",
+      "name": "Sheoldred, the Apocalypse",
+      "card_type": "Creature",
+      "full_card_type": "Legendary Creature \u0097 Phyrexian Praetor",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 35.2
+    },
+    {
+      "ref": "snc049",
+      "name": "Make Disappear",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 34.5
+    },
+    {
+      "ref": "dmu089",
+      "name": "Cut Down",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 33.2
+    },
+    {
+      "ref": "one254",
+      "name": "Mirrex",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Sphere",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 29.4
+    },
+    {
+      "ref": "som226",
+      "name": "Darkslick Shores",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 24.7
+    },
+    {
+      "ref": "neo042",
+      "name": "The Wandering Emperor",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker",
+      "color": [
+        "White"
+      ],
+      "use_percent": 23.8
+    },
+    {
+      "ref": "neo276",
+      "name": "Sokenzan, Crucible of Defiance",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 22.6
+    },
+    {
+      "ref": "neo255",
+      "name": "Reckoner Bankbuster",
+      "card_type": "Artifact",
+      "full_card_type": "Artifact \u0097 Vehicle",
+      "color": [],
+      "use_percent": 21.7
+    },
+    {
+      "ref": "som229",
+      "name": "Seachrome Coast",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 21.0
+    },
+    {
+      "ref": "5th003",
+      "name": "Adarkar Wastes",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 20.7
+    },
+    {
+      "ref": "vow045",
+      "name": "Wedding Announcement",
+      "card_type": "Enchantment",
+      "full_card_type": "Enchantment",
+      "color": [
+        "White"
+      ],
+      "use_percent": 20.2
+    },
+    {
+      "ref": "snc254",
+      "name": "Raffine's Tower",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Plains Island Swamp",
+      "color": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 19.8
+    },
+    {
+      "ref": "5th407",
+      "name": "Underground River",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 19.6
+    },
+    {
+      "ref": "mid267",
+      "name": "Shipwreck Marsh",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 19.0
+    },
+    {
+      "ref": "neo412",
+      "name": "Boseiju, Who Endures",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 18.9
+    },
+    {
+      "ref": "mid260",
+      "name": "Deserted Beach",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 18.7
+    }
+  ],
+  "2022": [
+    {
+      "ref": "neo268",
+      "name": "Eiganjo, Seat of the Empire",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "White"
+      ],
+      "use_percent": 41.2
+    },
+    {
+      "ref": "neo278",
+      "name": "Takenuma, Abandoned Mire",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 36.4
+    },
+    {
+      "ref": "neo042",
+      "name": "The Wandering Emperor",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker",
+      "color": [
+        "White"
+      ],
+      "use_percent": 34.7
+    },
+    {
+      "ref": "neo141",
+      "name": "Fable of the Mirror-Breaker",
+      "card_type": "Enchantment",
+      "full_card_type": "Enchantment \u0097 Saga",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 33.2
+    },
+    {
+      "ref": "mid107",
+      "name": "Infernal Grasp",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 31.7
+    },
+    {
+      "ref": "neo271",
+      "name": "Otawara, Soaring City",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 28.5
+    },
+    {
+      "ref": "mid112",
+      "name": "The Meathook Massacre",
+      "card_type": "Enchantment",
+      "full_card_type": "Legendary Enchantment",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 28.1
+    },
+    {
+      "ref": "neo255",
+      "name": "Reckoner Bankbuster",
+      "card_type": "Artifact",
+      "full_card_type": "Artifact \u0097 Vehicle",
+      "color": [],
+      "use_percent": 28.0
+    },
+    {
+      "ref": "vow045",
+      "name": "Wedding Announcement",
+      "card_type": "Enchantment",
+      "full_card_type": "Enchantment",
+      "color": [
+        "White"
+      ],
+      "use_percent": 25.8
+    },
+    {
+      "ref": "vow264",
+      "name": "Shattered Sanctum",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Black"
+      ],
+      "use_percent": 25.8
+    },
+    {
+      "ref": "mid267",
+      "name": "Shipwreck Marsh",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 25.7
+    },
+    {
+      "ref": "mid260",
+      "name": "Deserted Beach",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 24.2
+    },
+    {
+      "ref": "snc097",
+      "name": "Tenacious Underdog",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Human Warrior",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 23.4
+    },
+    {
+      "ref": "afr258",
+      "name": "Hive of the Eye Tyrant",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 23.3
+    },
+    {
+      "ref": "snc049",
+      "name": "Make Disappear",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 22.6
+    },
+    {
+      "ref": "mid263",
+      "name": "Haunted Ridge",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Black",
+        "Red"
+      ],
+      "use_percent": 22.0
+    },
+    {
+      "ref": "neo276",
+      "name": "Sokenzan, Crucible of Defiance",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 21.4
+    },
+    {
+      "ref": "znr024",
+      "name": "Luminarch Aspirant",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Human Cleric",
+      "color": [
+        "White"
+      ],
+      "use_percent": 20.5
+    },
+    {
+      "ref": "vow232",
+      "name": "Bloodtithe Harvester",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Vampire",
+      "color": [
+        "Black",
+        "Red"
+      ],
+      "use_percent": 18.6
+    },
+    {
+      "ref": "dmu107",
+      "name": "Sheoldred, the Apocalypse",
+      "card_type": "Creature",
+      "full_card_type": "Legendary Creature \u0097 Phyrexian Praetor",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 18.4
+    }
+  ],
+  "2021": [
+    {
+      "ref": "mbs043",
+      "name": "Go for the Throat",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 24.2
+    },
+    {
+      "ref": "neo268",
+      "name": "Eiganjo, Seat of the Empire",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "White"
+      ],
+      "use_percent": 22.3
+    },
+    {
+      "ref": "dmu089",
+      "name": "Cut Down",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 21.3
+    },
+    {
+      "ref": "neo278",
+      "name": "Takenuma, Abandoned Mire",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 20.6
+    },
+    {
+      "ref": "neo271",
+      "name": "Otawara, Soaring City",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 20.0
+    },
+    {
+      "ref": "eld244",
+      "name": "Fabled Passage",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 19.6
+    },
+    {
+      "ref": "dmu107",
+      "name": "Sheoldred, the Apocalypse",
+      "card_type": "Creature",
+      "full_card_type": "Legendary Creature \u0097 Phyrexian Praetor",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 16.9
+    },
+    {
+      "ref": "one254",
+      "name": "Mirrex",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Sphere",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 15.2
+    },
+    {
+      "ref": "neo042",
+      "name": "The Wandering Emperor",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker",
+      "color": [
+        "White"
+      ],
+      "use_percent": 14.0
+    },
+    {
+      "ref": "som226",
+      "name": "Darkslick Shores",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 13.6
+    },
+    {
+      "ref": "snc049",
+      "name": "Make Disappear",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 13.1
+    },
+    {
+      "ref": "neo276",
+      "name": "Sokenzan, Crucible of Defiance",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 12.6
+    },
+    {
+      "ref": "eld115",
+      "name": "Bonecrusher Giant",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Giant",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 12.3
+    },
+    {
+      "ref": "5th407",
+      "name": "Underground River",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 12.0
+    },
+    {
+      "ref": "som229",
+      "name": "Seachrome Coast",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 11.6
+    },
+    {
+      "ref": "5th003",
+      "name": "Adarkar Wastes",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 11.5
+    },
+    {
+      "ref": "mid260",
+      "name": "Deserted Beach",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 10.8
+    },
+    {
+      "ref": "mid267",
+      "name": "Shipwreck Marsh",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 10.7
+    },
+    {
+      "ref": "vow264",
+      "name": "Shattered Sanctum",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Black"
+      ],
+      "use_percent": 10.5
+    },
+    {
+      "ref": "neo412",
+      "name": "Boseiju, Who Endures",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 10.4
+    }
+  ],
+  "2020": [
+    {
+      "ref": "eld244",
+      "name": "Fabled Passage",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 15.6
+    },
+    {
+      "ref": "mbs043",
+      "name": "Go for the Throat",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 10.7
+    },
+    {
+      "ref": "neo268",
+      "name": "Eiganjo, Seat of the Empire",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "White"
+      ],
+      "use_percent": 9.0
+    },
+    {
+      "ref": "dmu089",
+      "name": "Cut Down",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 8.6
+    },
+    {
+      "ref": "neo278",
+      "name": "Takenuma, Abandoned Mire",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 8.3
+    },
+    {
+      "ref": "neo271",
+      "name": "Otawara, Soaring City",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 8.0
+    },
+    {
+      "ref": "avr226",
+      "name": "Cavern of Souls",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 7.8
+    },
+    {
+      "ref": "dis174",
+      "name": "Hallowed Fountain",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Plains Island",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 7.7
+    },
+    {
+      "ref": "som229",
+      "name": "Seachrome Coast",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 7.6
+    },
+    {
+      "ref": "eld115",
+      "name": "Bonecrusher Giant",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Giant",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 7.3
+    },
+    {
+      "ref": "mor043",
+      "name": "Negate",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 7.1
+    },
+    {
+      "ref": "10m226",
+      "name": "Glacial Fortress",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 6.9
+    },
+    {
+      "ref": "dmu107",
+      "name": "Sheoldred, the Apocalypse",
+      "card_type": "Creature",
+      "full_card_type": "Legendary Creature \u0097 Phyrexian Praetor",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 6.8
+    },
+    {
+      "ref": "som226",
+      "name": "Darkslick Shores",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 6.7
+    },
+    {
+      "ref": "ths127",
+      "name": "Lightning Strike",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 6.4
+    },
+    {
+      "ref": "one254",
+      "name": "Mirrex",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Sphere",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 6.1
+    },
+    {
+      "ref": "dis172",
+      "name": "Breeding Pool",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Forest Island",
+      "color": [
+        "Blue",
+        "Green"
+      ],
+      "use_percent": 6.1
+    },
+    {
+      "ref": "gui163",
+      "name": "Stomping Ground",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Mountain Forest",
+      "color": [
+        "Red",
+        "Green"
+      ],
+      "use_percent": 6.0
+    },
+    {
+      "ref": "apo145",
+      "name": "Caves of Koilos",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 6.0
+    },
+    {
+      "ref": "rav279",
+      "name": "Overgrown Tomb",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Swamp Forest",
+      "color": [
+        "Black",
+        "Green"
+      ],
+      "use_percent": 5.8
+    }
+  ],
+  "2019": [
+    {
+      "ref": "10m226",
+      "name": "Glacial Fortress",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 27.8
+    },
+    {
+      "ref": "6th113",
+      "name": "Shock",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 27.6
+    },
+    {
+      "ref": "dis174",
+      "name": "Hallowed Fountain",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Plains Island",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 24.5
+    },
+    {
+      "ref": "rav286",
+      "name": "Watery Grave",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Island Swamp",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 22.9
+    },
+    {
+      "ref": "10m224",
+      "name": "Drowned Catacomb",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 21.8
+    },
+    {
+      "ref": "abu155",
+      "name": "Llanowar Elves",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Elf Druid",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 21.2
+    },
+    {
+      "ref": "dis172",
+      "name": "Breeding Pool",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Forest Island",
+      "color": [
+        "Blue",
+        "Green"
+      ],
+      "use_percent": 20.0
+    },
+    {
+      "ref": "ths127",
+      "name": "Lightning Strike",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 19.9
+    },
+    {
+      "ref": "dom081",
+      "name": "Cast Down",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 19.6
+    },
+    {
+      "ref": "war221",
+      "name": "Teferi, Time Raveler",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker \u0097 Teferi",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 18.9
+    },
+    {
+      "ref": "dom200",
+      "name": "Teferi, Hero of Dominaria",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker \u0097 Teferi",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 18.3
+    },
+    {
+      "ref": "inv169",
+      "name": "Opt",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 18.1
+    },
+    {
+      "ref": "xln125",
+      "name": "Vraska's Contempt",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 17.9
+    },
+    {
+      "ref": "gui162",
+      "name": "Steam Vents",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Island Mountain",
+      "color": [
+        "Blue",
+        "Red"
+      ],
+      "use_percent": 17.7
+    },
+    {
+      "ref": "isd241",
+      "name": "Hinterland Harbor",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Green",
+        "Blue"
+      ],
+      "use_percent": 17.5
+    },
+    {
+      "ref": "rav279",
+      "name": "Overgrown Tomb",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Swamp Forest",
+      "color": [
+        "Black",
+        "Green"
+      ],
+      "use_percent": 17.1
+    },
+    {
+      "ref": "isd248",
+      "name": "Sulfur Falls",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Blue",
+        "Red"
+      ],
+      "use_percent": 17.0
+    },
+    {
+      "ref": "grn108",
+      "name": "Lava Coil",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 16.7
+    },
+    {
+      "ref": "isd242",
+      "name": "Isolated Chapel",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Black"
+      ],
+      "use_percent": 16.0
+    },
+    {
+      "ref": "gui144",
+      "name": "Godless Shrine",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Plains Swamp",
+      "color": [
+        "White",
+        "Black"
+      ],
+      "use_percent": 15.9
+    }
+  ],
+  "2018": [
+    {
+      "ref": "kld242",
+      "name": "Aether Hub",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 48.3
+    },
+    {
+      "ref": "hou083",
+      "name": "Abrade",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 40.9
+    },
+    {
+      "ref": "aer057",
+      "name": "Fatal Push",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 33.0
+    },
+    {
+      "ref": "kld110",
+      "name": "Chandra, Torch of Defiance",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker \u0097 Chandra",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 28.6
+    },
+    {
+      "ref": "xln125",
+      "name": "Vraska's Contempt",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 26.4
+    },
+    {
+      "ref": "kld199",
+      "name": "Bomat Courier",
+      "card_type": "Creature",
+      "full_card_type": "Artifact Creature \u0097 Construct",
+      "color": [],
+      "use_percent": 25.5
+    },
+    {
+      "ref": "hou145",
+      "name": "The Scarab God",
+      "card_type": "Creature",
+      "full_card_type": "Legendary Creature \u0097 God",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 24.1
+    },
+    {
+      "ref": "akh243",
+      "name": "Fetid Pools",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Island Swamp",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 23.7
+    },
+    {
+      "ref": "akh136",
+      "name": "Hazoret the Fervent",
+      "card_type": "Creature",
+      "full_card_type": "Legendary Creature \u0097 God",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 23.5
+    },
+    {
+      "ref": "akh134",
+      "name": "Glorybringer",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Dragon",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 23.3
+    },
+    {
+      "ref": "aer181",
+      "name": "Walking Ballista",
+      "card_type": "Creature",
+      "full_card_type": "Artifact Creature \u0097 Construct",
+      "color": [],
+      "use_percent": 22.2
+    },
+    {
+      "ref": "10m223",
+      "name": "Dragonskull Summit",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Black",
+        "Red"
+      ],
+      "use_percent": 22.2
+    },
+    {
+      "ref": "xln255",
+      "name": "Field of Ruin",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 21.9
+    },
+    {
+      "ref": "10m051",
+      "name": "Essence Scatter",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 21.6
+    },
+    {
+      "ref": "xln071",
+      "name": "Search for Azcanta",
+      "card_type": "Enchantment",
+      "full_card_type": "Legendary Enchantment",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 21.0
+    },
+    {
+      "ref": "akh239",
+      "name": "Canyon Slough",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Swamp Mountain",
+      "color": [
+        "Black",
+        "Red"
+      ],
+      "use_percent": 20.9
+    },
+    {
+      "ref": "10m224",
+      "name": "Drowned Catacomb",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 20.9
+    },
+    {
+      "ref": "kld231",
+      "name": "Scrapheap Scrounger",
+      "card_type": "Creature",
+      "full_card_type": "Artifact Creature \u0097 Construct",
+      "color": [],
+      "use_percent": 20.0
+    },
+    {
+      "ref": "kld244",
+      "name": "Botanical Sanctum",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Green",
+        "Blue"
+      ],
+      "use_percent": 19.8
+    },
+    {
+      "ref": "aer062",
+      "name": "Glint-Sleeve Siphoner",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Human Rogue",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 18.5
+    }
+  ],
+  "2017": [
+    {
+      "ref": "kld242",
+      "name": "Aether Hub",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 62.0
+    },
+    {
+      "ref": "kld117",
+      "name": "Harnessed Lightning",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 39.1
+    },
+    {
+      "ref": "kld145",
+      "name": "Attune with Aether",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 32.5
+    },
+    {
+      "ref": "soi044",
+      "name": "Thraben Inspector",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Human Soldier",
+      "color": [
+        "White"
+      ],
+      "use_percent": 31.4
+    },
+    {
+      "ref": "kld249",
+      "name": "Spirebluff Canal",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Blue",
+        "Red"
+      ],
+      "use_percent": 30.6
+    },
+    {
+      "ref": "aer057",
+      "name": "Fatal Push",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 29.0
+    },
+    {
+      "ref": "bfz029",
+      "name": "Gideon, Ally of Zendikar",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker \u0097 Gideon",
+      "color": [
+        "White"
+      ],
+      "use_percent": 28.1
+    },
+    {
+      "ref": "kld246",
+      "name": "Inspiring Vantage",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Red",
+        "White"
+      ],
+      "use_percent": 26.7
+    },
+    {
+      "ref": "kld231",
+      "name": "Scrapheap Scrounger",
+      "card_type": "Creature",
+      "full_card_type": "Artifact Creature \u0097 Construct",
+      "color": [],
+      "use_percent": 25.8
+    },
+    {
+      "ref": "kld169",
+      "name": "Servant of the Conduit",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Elf Druid",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 24.6
+    },
+    {
+      "ref": "kld244",
+      "name": "Botanical Sanctum",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Green",
+        "Blue"
+      ],
+      "use_percent": 24.1
+    },
+    {
+      "ref": "kld187",
+      "name": "Unlicensed Disintegration",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black",
+        "Red"
+      ],
+      "use_percent": 22.0
+    },
+    {
+      "ref": "roe228",
+      "name": "Evolving Wilds",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 21.7
+    },
+    {
+      "ref": "aer181",
+      "name": "Walking Ballista",
+      "card_type": "Creature",
+      "full_card_type": "Artifact Creature \u0097 Construct",
+      "color": [],
+      "use_percent": 21.4
+    },
+    {
+      "ref": "soi005",
+      "name": "Archangel Avacyn",
+      "card_type": "Creature",
+      "full_card_type": "Legendary Creature \u0097 Angel",
+      "color": [
+        "White"
+      ],
+      "use_percent": 20.6
+    },
+    {
+      "ref": "kld110",
+      "name": "Chandra, Torch of Defiance",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker \u0097 Chandra",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 20.0
+    },
+    {
+      "ref": "kld245",
+      "name": "Concealed Courtyard",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Black"
+      ],
+      "use_percent": 19.8
+    },
+    {
+      "ref": "kld032",
+      "name": "Toolcraft Exemplar",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Dwarf Artificer",
+      "color": [
+        "White"
+      ],
+      "use_percent": 19.4
+    },
+    {
+      "ref": "soi233",
+      "name": "Tireless Tracker",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Human Scout",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 19.4
+    },
+    {
+      "ref": "som065",
+      "name": "Grasp of Darkness",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 18.7
+    }
+  ],
+  "2016": [
+    {
+      "ref": "bfz234",
+      "name": "Canopy Vista",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Forest Plains",
+      "color": [
+        "Green",
+        "White"
+      ],
+      "use_percent": 45.4
+    },
+    {
+      "ref": "bfz241",
+      "name": "Prairie Stream",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Plains Island",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 36.8
+    },
+    {
+      "ref": "dtk221",
+      "name": "Dromoka's Command",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Green",
+        "White"
+      ],
+      "use_percent": 33.2
+    },
+    {
+      "ref": "roe228",
+      "name": "Evolving Wilds",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 32.0
+    },
+    {
+      "ref": "bfz029",
+      "name": "Gideon, Ally of Zendikar",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker \u0097 Gideon",
+      "color": [
+        "White"
+      ],
+      "use_percent": 28.3
+    },
+    {
+      "ref": "ogw144",
+      "name": "Sylvan Advocate",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Elf Druid Ally",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 28.2
+    },
+    {
+      "ref": "bfz248",
+      "name": "Sunken Hollow",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Island Swamp",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 27.7
+    },
+    {
+      "ref": "ons316",
+      "name": "Flooded Strand",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 27.4
+    },
+    {
+      "ref": "ons328",
+      "name": "Windswept Heath",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 27.2
+    },
+    {
+      "ref": "bfz243",
+      "name": "Shambling Vent",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Black"
+      ],
+      "use_percent": 26.0
+    },
+    {
+      "ref": "ons330",
+      "name": "Wooded Foothills",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 25.6
+    },
+    {
+      "ref": "bfz247",
+      "name": "Smoldering Marsh",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Swamp Mountain",
+      "color": [
+        "Black",
+        "Red"
+      ],
+      "use_percent": 24.9
+    },
+    {
+      "ref": "ori060",
+      "name": "Jace, Vryn's Prodigy",
+      "card_type": "Creature",
+      "full_card_type": "Legendary Creature \u0097 Human Wizard",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 24.8
+    },
+    {
+      "ref": "dtk177",
+      "name": "Collected Company",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 24.6
+    },
+    {
+      "ref": "ogw157",
+      "name": "Reflector Mage",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Human Wizard",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 23.1
+    },
+    {
+      "ref": "dtk181",
+      "name": "Den Protector",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Human Warrior",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 21.4
+    },
+    {
+      "ref": "ktk081",
+      "name": "Murderous Cut",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 21.3
+    },
+    {
+      "ref": "ori229",
+      "name": "Hangarback Walker",
+      "card_type": "Creature",
+      "full_card_type": "Artifact Creature \u0097 Construct",
+      "color": [],
+      "use_percent": 21.2
+    },
+    {
+      "ref": "apo148",
+      "name": "Yavimaya Coast",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 20.6
+    },
+    {
+      "ref": "ons313",
+      "name": "Bloodstained Mire",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 19.4
+    }
+  ],
+  "2015": [
+    {
+      "ref": "plc165",
+      "name": "Urborg, Tomb of Yawgmoth",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [],
+      "use_percent": 43.7
+    },
+    {
+      "ref": "ths090",
+      "name": "Hero's Downfall",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 41.4
+    },
+    {
+      "ref": "ons328",
+      "name": "Windswept Heath",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 39.5
+    },
+    {
+      "ref": "apo145",
+      "name": "Caves of Koilos",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 37.7
+    },
+    {
+      "ref": "bng119",
+      "name": "Courser of Kruphix",
+      "card_type": "Creature",
+      "full_card_type": "Enchantment Creature \u0097 Centaur",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 37.7
+    },
+    {
+      "ref": "lor145",
+      "name": "Thoughtseize",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 35.9
+    },
+    {
+      "ref": "apo146",
+      "name": "Llanowar Wastes",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 35.6
+    },
+    {
+      "ref": "ths227",
+      "name": "Temple of Silence",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Black"
+      ],
+      "use_percent": 34.9
+    },
+    {
+      "ref": "jou165",
+      "name": "Temple of Malady",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Black",
+        "Green"
+      ],
+      "use_percent": 33.1
+    },
+    {
+      "ref": "ths127",
+      "name": "Lightning Strike",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 30.0
+    },
+    {
+      "ref": "ktk241",
+      "name": "Sandsteppe Citadel",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "use_percent": 29.0
+    },
+    {
+      "ref": "ktk200",
+      "name": "Siege Rhino",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Rhino",
+      "color": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "use_percent": 28.6
+    },
+    {
+      "ref": "15m143",
+      "name": "Goblin Rabblemaster",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Goblin Warrior",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 28.1
+    },
+    {
+      "ref": "ths174",
+      "name": "Sylvan Caryatid",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Plant",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 26.9
+    },
+    {
+      "ref": "ktk161",
+      "name": "Abzan Charm",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "use_percent": 25.2
+    },
+    {
+      "ref": "jou163",
+      "name": "Mana Confluence",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 24.9
+    },
+    {
+      "ref": "bng061",
+      "name": "Bile Blight",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 24.8
+    },
+    {
+      "ref": "15m166",
+      "name": "Stoke the Flames",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 24.5
+    },
+    {
+      "ref": "ktk081",
+      "name": "Murderous Cut",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 22.0
+    },
+    {
+      "ref": "14m167",
+      "name": "Elvish Mystic",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Elf Druid",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 21.9
+    }
+  ],
+  "2014": [
+    {
+      "ref": "mor148",
+      "name": "Mutavault",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 72.7
+    },
+    {
+      "ref": "ths090",
+      "name": "Hero's Downfall",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 35.3
+    },
+    {
+      "ref": "lor145",
+      "name": "Thoughtseize",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 35.0
+    },
+    {
+      "ref": "gtc222",
+      "name": "Nightveil Specter",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Specter",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 31.6
+    },
+    {
+      "ref": "rtr063",
+      "name": "Desecration Demon",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Demon",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 29.7
+    },
+    {
+      "ref": "ths227",
+      "name": "Temple of Silence",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Black"
+      ],
+      "use_percent": 28.9
+    },
+    {
+      "ref": "gtc063",
+      "name": "Devour Flesh",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 26.7
+    },
+    {
+      "ref": "rtr083",
+      "name": "Underworld Connections",
+      "card_type": "Enchantment",
+      "full_card_type": "Enchantment \u0097 Aura",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 26.7
+    },
+    {
+      "ref": "rtr074",
+      "name": "Pack Rat",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Rat",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 26.2
+    },
+    {
+      "ref": "ths225",
+      "name": "Temple of Deceit",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Blue",
+        "Black"
+      ],
+      "use_percent": 24.2
+    },
+    {
+      "ref": "rtr044",
+      "name": "Jace, Architect of Thought",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker \u0097 Jace",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 23.3
+    },
+    {
+      "ref": "ths009",
+      "name": "Elspeth, Sun's Champion",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker \u0097 Elspeth",
+      "color": [
+        "White"
+      ],
+      "use_percent": 22.5
+    },
+    {
+      "ref": "ths223",
+      "name": "Nykthos, Shrine to Nyx",
+      "card_type": "Land",
+      "full_card_type": "Legendary Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 21.5
+    },
+    {
+      "ref": "ths088",
+      "name": "Gray Merchant of Asphodel",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Zombie",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 20.7
+    },
+    {
+      "ref": "dis174",
+      "name": "Hallowed Fountain",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Plains Island",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 19.4
+    },
+    {
+      "ref": "rtr082",
+      "name": "Ultimate Price",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 19.2
+    },
+    {
+      "ref": "rtr174",
+      "name": "Frostburn Weird",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Weird",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 18.6
+    },
+    {
+      "ref": "rtr155",
+      "name": "Detention Sphere",
+      "card_type": "Enchantment",
+      "full_card_type": "Enchantment",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 18.5
+    },
+    {
+      "ref": "gui144",
+      "name": "Godless Shrine",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Plains Swamp",
+      "color": [
+        "White",
+        "Black"
+      ],
+      "use_percent": 17.8
+    },
+    {
+      "ref": "rtr201",
+      "name": "Supreme Verdict",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 16.7
+    }
+  ],
+  "2013": [
+    {
+      "ref": "rav284",
+      "name": "Temple Garden",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Forest Plains",
+      "color": [
+        "Green",
+        "White"
+      ],
+      "use_percent": 43.1
+    },
+    {
+      "ref": "avr226",
+      "name": "Cavern of Souls",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 38.7
+    },
+    {
+      "ref": "13m190",
+      "name": "Thragtusk",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Beast",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 37.8
+    },
+    {
+      "ref": "10m228",
+      "name": "Sunpetal Grove",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Green",
+        "White"
+      ],
+      "use_percent": 36.1
+    },
+    {
+      "ref": "10m227",
+      "name": "Rootbound Crag",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Red",
+        "Green"
+      ],
+      "use_percent": 34.7
+    },
+    {
+      "ref": "rav279",
+      "name": "Overgrown Tomb",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Swamp Forest",
+      "color": [
+        "Black",
+        "Green"
+      ],
+      "use_percent": 34.6
+    },
+    {
+      "ref": "avr026",
+      "name": "Restoration Angel",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Angel",
+      "color": [
+        "White"
+      ],
+      "use_percent": 34.5
+    },
+    {
+      "ref": "isd249",
+      "name": "Woodland Cemetery",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Black",
+        "Green"
+      ],
+      "use_percent": 31.4
+    },
+    {
+      "ref": "gui163",
+      "name": "Stomping Ground",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Mountain Forest",
+      "color": [
+        "Red",
+        "Green"
+      ],
+      "use_percent": 29.3
+    },
+    {
+      "ref": "13m137",
+      "name": "Searing Spear",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 29.1
+    },
+    {
+      "ref": "avr150",
+      "name": "Pillar of Flame",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 28.4
+    },
+    {
+      "ref": "dis171",
+      "name": "Blood Crypt",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Swamp Mountain",
+      "color": [
+        "Black",
+        "Red"
+      ],
+      "use_percent": 25.8
+    },
+    {
+      "ref": "dis174",
+      "name": "Hallowed Fountain",
+      "card_type": "Land",
+      "full_card_type": "Land \u0097 Plains Island",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 25.2
+    },
+    {
+      "ref": "isd170",
+      "name": "Avacyn's Pilgrim",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Human Monk",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 24.5
+    },
+    {
+      "ref": "10m226",
+      "name": "Glacial Fortress",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 24.1
+    },
+    {
+      "ref": "isd238",
+      "name": "Clifftop Retreat",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Red",
+        "White"
+      ],
+      "use_percent": 23.6
+    },
+    {
+      "ref": "rav163",
+      "name": "Farseek",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 23.3
+    },
+    {
+      "ref": "isd242",
+      "name": "Isolated Chapel",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Black"
+      ],
+      "use_percent": 22.6
+    },
+    {
+      "ref": "10m223",
+      "name": "Dragonskull Summit",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Black",
+        "Red"
+      ],
+      "use_percent": 21.8
+    },
+    {
+      "ref": "isd243",
+      "name": "Kessig Wolf Run",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 21.2
+    }
+  ],
+  "2012": [
+    {
+      "ref": "som229",
+      "name": "Seachrome Coast",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 39.1
+    },
+    {
+      "ref": "10m226",
+      "name": "Glacial Fortress",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 38.0
+    },
+    {
+      "ref": "isd078",
+      "name": "Snapcaster Mage",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Human Wizard",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 37.7
+    },
+    {
+      "ref": "nph086",
+      "name": "Gut Shot",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 37.3
+    },
+    {
+      "ref": "str062",
+      "name": "Mana Leak",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 36.4
+    },
+    {
+      "ref": "lor079",
+      "name": "Ponder",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 36.0
+    },
+    {
+      "ref": "avr226",
+      "name": "Cavern of Souls",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 34.5
+    },
+    {
+      "ref": "nph035",
+      "name": "Gitaxian Probe",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 30.1
+    },
+    {
+      "ref": "nph048",
+      "name": "Vapor Snag",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 29.1
+    },
+    {
+      "ref": "isd244",
+      "name": "Moorland Haunt",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 28.1
+    },
+    {
+      "ref": "isd051",
+      "name": "Delver of Secrets",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Human Wizard",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 27.9
+    },
+    {
+      "ref": "12m072",
+      "name": "Phantasmal Image",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Illusion",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 26.7
+    },
+    {
+      "ref": "dka052",
+      "name": "Thought Scour",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 25.0
+    },
+    {
+      "ref": "avr026",
+      "name": "Restoration Angel",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Angel",
+      "color": [
+        "White"
+      ],
+      "use_percent": 24.5
+    },
+    {
+      "ref": "abu016",
+      "name": "Birds of Paradise",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Bird",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 23.7
+    },
+    {
+      "ref": "som225",
+      "name": "Copperline Gorge",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Red",
+        "Green"
+      ],
+      "use_percent": 23.2
+    },
+    {
+      "ref": "isd213",
+      "name": "Geist of Saint Traft",
+      "card_type": "Creature",
+      "full_card_type": "Legendary Creature \u0097 Spirit Cleric",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 22.7
+    },
+    {
+      "ref": "nph057",
+      "name": "Dismember",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Black"
+      ],
+      "use_percent": 22.6
+    },
+    {
+      "ref": "nph042",
+      "name": "Phyrexian Metamorph",
+      "card_type": "Creature",
+      "full_card_type": "Artifact Creature \u0097 Phyrexian Shapeshifter",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 20.4
+    },
+    {
+      "ref": "10m227",
+      "name": "Rootbound Crag",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Red",
+        "Green"
+      ],
+      "use_percent": 19.4
+    }
+  ],
+  "2011": [
+    {
+      "ref": "11m070",
+      "name": "Preordain",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 48.6
+    },
+    {
+      "ref": "str062",
+      "name": "Mana Leak",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 47.6
+    },
+    {
+      "ref": "wwk145",
+      "name": "Tectonic Edge",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "Colorless"
+      ],
+      "use_percent": 44.6
+    },
+    {
+      "ref": "wwk031",
+      "name": "Jace, the Mind Sculptor",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker \u0097 Jace",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 39.9
+    },
+    {
+      "ref": "zen223",
+      "name": "Scalding Tarn",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 36.2
+    },
+    {
+      "ref": "abu151",
+      "name": "Lightning Bolt",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Red"
+      ],
+      "use_percent": 33.6
+    },
+    {
+      "ref": "10m226",
+      "name": "Glacial Fortress",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 31.4
+    },
+    {
+      "ref": "som229",
+      "name": "Seachrome Coast",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 31.2
+    },
+    {
+      "ref": "11m033",
+      "name": "Squadron Hawk",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Bird",
+      "color": [
+        "White"
+      ],
+      "use_percent": 30.3
+    },
+    {
+      "ref": "wwk133",
+      "name": "Celestial Colonnade",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [
+        "White",
+        "Blue"
+      ],
+      "use_percent": 28.7
+    },
+    {
+      "ref": "wwk020",
+      "name": "Stoneforge Mystic",
+      "card_type": "Creature",
+      "full_card_type": "Creature \u0097 Kor Artificer",
+      "color": [
+        "White"
+      ],
+      "use_percent": 27.4
+    },
+    {
+      "ref": "mbs138",
+      "name": "Sword of Feast and Famine",
+      "card_type": "Artifact",
+      "full_card_type": "Artifact \u0097 Equipment",
+      "color": [],
+      "use_percent": 25.7
+    },
+    {
+      "ref": "roe021",
+      "name": "Gideon Jura",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker \u0097 Gideon",
+      "color": [
+        "White"
+      ],
+      "use_percent": 23.6
+    },
+    {
+      "ref": "zen067",
+      "name": "Spell Pierce",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 23.5
+    },
+    {
+      "ref": "zen220",
+      "name": "Misty Rainforest",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 23.4
+    },
+    {
+      "ref": "zen211",
+      "name": "Arid Mesa",
+      "card_type": "Land",
+      "full_card_type": "Land",
+      "color": [],
+      "use_percent": 22.6
+    },
+    {
+      "ref": "wwk099",
+      "name": "Explore",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "Green"
+      ],
+      "use_percent": 22.5
+    },
+    {
+      "ref": "zen009",
+      "name": "Day of Judgment",
+      "card_type": "Sorcery",
+      "full_card_type": "Sorcery",
+      "color": [
+        "White"
+      ],
+      "use_percent": 20.8
+    },
+    {
+      "ref": "lor071",
+      "name": "Jace Beleren",
+      "card_type": "Planeswalker",
+      "full_card_type": "Legendary Planeswalker \u0097 Jace",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 20.6
+    },
+    {
+      "ref": "zen048",
+      "name": "Into the Roil",
+      "card_type": "Instant",
+      "full_card_type": "Instant",
+      "color": [
+        "Blue"
+      ],
+      "use_percent": 19.6
+    }
+  ]
+}

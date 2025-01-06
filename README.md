@@ -1,0 +1,1 @@
+`mtg_top.json` contains information about the top 20 most-played Magic the Gathering Cards from the years 2011-2024, based on information acquired from https://mtgtop8.com/index and https://www.mtgpics.com/. Feel free to open a PR if you spot an error. `analyze_mtg.py` contains a script that I used to make some guesses about 2025.
